@@ -26,3 +26,9 @@ while number < 10 do
     print(number.." number is: ".."x = "..x_pos.." y = "..y_pos)
     number = number + 1
 end
+-- While Loop 2 --
+num = 1
+repeat
+    print(num)
+    num = num + 1
+until num > 10
